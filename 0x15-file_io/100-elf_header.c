@@ -129,5 +129,3 @@ void print_version(unsigned char *e_ident)
 		printf("\n");
 		break;
 	}
-}
-
